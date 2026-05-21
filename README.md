@@ -49,4 +49,22 @@ Esse projeto está sob a licença MIT.
 
 ---
 
+## Meu Primeiro Projeto 🚀
+
+Esse foi meu primeiro projeto desenvolvido acompanhando as aulas da Rocketseat.
+
+Durante o desenvolvimento, consegui aprender mais sobre:
+
+- HTML
+- CSS
+- JavaScript
+- Organização de código
+- Estrutura de projetos
+
+Foi um projeto muito importante pra mim porque marcou meu início na programação prática e me ajudou a entender melhor como funciona o desenvolvimento de aplicações.
+
+Ainda tenho muito a aprender, mas esse projeto representa um grande passo na minha evolução. 🚀
+
+---
+
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
