@@ -2,12 +2,12 @@ function toggleMode() {
   const html = document.documentElement
   html.classList.toggle("light")
 
-  const img = document.querySelector("#profile img")
+  const img = document.querySelector("#profile-photo")
 
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "./Assets/avatar-IA-2.png")
+    img.src = "./Assets/avatar-IA-2.png"
   } else {
-    img.setAttribute("src", "./Assets/avatar.png")
+    img.src = "./Assets/avatar.png"
   }
 }
 
